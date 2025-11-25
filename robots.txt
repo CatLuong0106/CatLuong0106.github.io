@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://catluong0106.github.io./sitemap.xml
+Sitemap: https://CatLuong0106.github.io./sitemap.xml
